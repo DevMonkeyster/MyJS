@@ -5,6 +5,8 @@ const body = {
     "timestamp" : "1610351312"
 }
 
+console.log(body);
+
 console.log(document.body);
 
-console.log(body);
+
