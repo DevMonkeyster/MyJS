@@ -6,8 +6,8 @@ const body = {
 }
 console.log(body);
 
-const body = $request.body;
-dic["nickname"] = "我是蛋壳的亲爹";
+const bodydic = $request.body;
+bodydic["nickname"] = "我是蛋壳的亲爹";
 
 
 
