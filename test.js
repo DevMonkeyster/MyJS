@@ -6,6 +6,9 @@ const body = {
 }
 console.log(body);
 
+const body = $request.body;
+dic["nickname"] = "我是蛋壳的亲爹";
+
 
 
 console.log($request.body);
